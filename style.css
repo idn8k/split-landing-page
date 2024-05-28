@@ -73,12 +73,7 @@ h1 {
    width: 50%;
    height: 100%;
    overflow: hidden;
-   /* transition: transform 0.3s ease; */
 }
-
-/* .split:hover {
-   transform: scale(1.1);
-} */
 
 .split.left {
    left: 0;
